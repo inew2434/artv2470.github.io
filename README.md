@@ -1,6 +1,6 @@
-![artv-2470](https://raw.githubusercontent.com/idtprof/idtprof.github.io/master/images/imed1416banner.png)
+![artv-2470](https://raw.githubusercontent.com/artv2470/artv2470.github.io/main/artv2470banner.png)
 
-# artv2470.github.io -- Web Design I
+# artv2470.github.io -- Introduction to Web Application Development
 
 Dallas College El Centro Campus
 
